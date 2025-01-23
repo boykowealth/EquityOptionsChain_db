@@ -81,6 +81,7 @@ The output DataFrame contains the following columns:
 - **Volume**
 - **Open Interest**
 - **Implied Volatility**
+- **Delta**
 
 ## Disclaimer
 - This script relies on web scraping and may break if Yahoo Finance changes its website structure.
